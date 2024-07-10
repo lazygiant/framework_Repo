@@ -23,7 +23,8 @@ import com.comcast.crm.generic.fileUtility.FileUtility;
 import com.comcast.crm.generic.webdriverUtility.JavaUtility;
 import com.comcast.crm.generic.webdriverUtility.WebDriverUtility;
 
-public class CreateContactWithOrgTest {
+public class CreateContactWithOrgTest 
+{
 
 	public static void main(String[] args) throws Throwable
 	{
